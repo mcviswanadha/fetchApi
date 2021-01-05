@@ -1,2 +1,2 @@
-# fetchApi
+# ExpenseTracker
 Created with CodeSandbox
